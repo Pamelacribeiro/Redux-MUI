@@ -26,7 +26,7 @@ Além disso, a aplicação oferece a funcionalidade de **Troca de Tema** (claro/
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/thainatuanne/Redux-MUI.git
+   git clone https://github.com/Pamelacribeiro/Redux-MUI.git
    
 2. Acesse a pasta do projeto:
 
